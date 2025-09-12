@@ -1,4 +1,4 @@
-# Sensing-Assisted Beam Tracking
+# Sensing-Assisted Long-Term Beam Tracking
 Simulator for paper ''Knowledge Distillation for Sensing-Assisted Long-Term Beam Tracking in mmWave Communications''
 
 
