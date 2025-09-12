@@ -1,5 +1,5 @@
 # Sensing-Assisted Beam Tracking
-Simulator for paper ''Knowledge Distillation for Sensing-Assisted Beam Tracking in mmWave Communications''
+Simulator for paper ''Knowledge Distillation for Sensing-Assisted Long-Term Beam Tracking in mmWave Communications''
 
 
 ## Explaination
