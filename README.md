@@ -38,7 +38,7 @@ All trained model along with the hyparameters are under the folder: All_models/
 2) args.kd_mode:0 for no KD; 1 for KD
 3) args.seq_length_student: Sequence length for student model (8 or 5 or 3)
 4) args.attention=True: Use attention for teacher model
-5) 
+
 ### Models and hyperparameters:
 Nine models contained: 
 1) Teacher_noAtten.pth: Best teacher model without attention mechanism
